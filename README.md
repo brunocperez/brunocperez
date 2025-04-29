@@ -26,9 +26,17 @@ Atualmente desenvolvo **projetos de análise de dados** aplicados a iniciativas 
 
 ---
 
-📊 **Estatísticas GitHub**
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocperez&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocperez&layout=compact&theme=dark" />
 </div>
+
+---
+
+<a href="https://www.linkedin.com/in/brunocperes" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:bruno.perescp@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
